@@ -1,3 +1,8 @@
+/*////////////////////////////
+Author: Max Kyzmenko	/////
+Name: Programa telegraph/////
+/*///////////////////////////
+
 #include <iostream>
 #include <windows.h>
 #include <string>
